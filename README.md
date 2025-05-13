@@ -1,6 +1,6 @@
-# 📖 Trabajo Práctico Nº 3: JSON - Ejercicio 3
+![Banner UNPA](img/unpa_logo.png)
 
-![Banner UNPA](img/unpalogo.png)
+# 📖 Trabajo Práctico Nº 3: JSON - Ejercicio 3
 
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=java&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
@@ -62,4 +62,4 @@ Este proyecto está bajo la **Licencia MIT**, lo que permite su uso, copia y mod
 - Consigna del Trabajo Práctico Nº 3, Laboratorio de Programación, UNPA.
 - Documentación oficial de HTML5 y JavaScript (MDN Web Docs).
 
-### 🍰 The cake is a lie." - GLaDOS (Portal)![GlaDOS](img/glados.png)
+### 🍰 "The cake is a lie." - GLaDOS (Portal)![GlaDOS](img/glados.png)
