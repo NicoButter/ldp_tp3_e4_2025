@@ -62,4 +62,4 @@ Este proyecto está bajo la **Licencia MIT**, lo que permite su uso, copia y mod
 - Consigna del Trabajo Práctico Nº 3, Laboratorio de Programación, UNPA.
 - Documentación oficial de HTML5 y JavaScript (MDN Web Docs).
 
-### The cake is a lie." - GLaDOS (Portal)![GlaDOS](img/glados.png)
+### 🍰 The cake is a lie." - GLaDOS (Portal)![GlaDOS](img/glados.png)
