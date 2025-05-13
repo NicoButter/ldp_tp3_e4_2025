@@ -1,6 +1,6 @@
 # 📖 Trabajo Práctico Nº 3: JSON - Ejercicio 4
 
-![Banner UNPA](img/unpa-logo.png) <!-- Opcional: Logo de la universidad -->
+![Banner UNPA](img/unpa_logo.png)
 
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=java&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
@@ -52,10 +52,6 @@ El código Java (`Main.java`) realiza las siguientes operaciones sobre el archiv
 - **d) Buscar información relacionada**: Lista películas en las que ha trabajado un actor dado (por ejemplo, "Leonardo DiCaprio").
 
 ### Código de Ejemplo
-
-## 👤 Autor
-# Nombre: [Tu Nombre]
-# Contacto: tu.email@ejemplo.com | GitHub
 
 ## 👤 Autor
 
